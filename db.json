@@ -1046,5 +1046,31 @@
         }
       ]
     }
+  ],
+  "avatars":[
+    {
+      "id":1,
+      "image": "https://api.multiavatar.com/MaudePenrice.png",
+      "first_name":"Maude",
+      "last_name":"Penrice",
+      "city":"Otjimbingwe",
+      "country":"Namibia"
+    },
+    {
+      "id":2,
+      "image": "https://api.multiavatar.com/ShayneJarrel.png",
+      "first_name":"Shayne",
+      "last_name":"Jarrel",
+      "city":"Minneapolis",
+      "country":"United States"
+    },
+    {
+      "id":3,
+      "image": "https://api.multiavatar.com/SharlaEgan.png",
+      "first_name":"Sharla",
+      "last_name":"Egan",
+      "city":"Nam Som",
+      "country":"Thailand"
+    }
   ]
 }
