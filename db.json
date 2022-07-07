@@ -1542,5 +1542,76 @@
         "geology": "./assets/geology-neptune.png"
       }
     }
+  ],
+  "nft-categories": [
+    {
+      "name": "Trading Cards",
+      "addresses": [
+        "0x155cbbca1ab35eab09b66270046317803919e555",
+        "0x18cb9db75fa62a9717aa98292b939e579b7c7ccd",
+        "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+        "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "0x495f947276749ce646f68ac8c248420045cb7b5e"        
+      ]
+    },
+    {
+      "name": "Artwork",
+      "addresses": [
+        "0x40711e7d328b5b97737c869a23e43b3c147ce638",
+        "0x8a939fd297fab7388d6e6c634eee3c863626be57",
+        "0x5bd815fd6c096bab38b4c6553cfce3585194dff9",
+        "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+        "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270"        
+      ]
+    },
+    {
+      "name": "Gaming",
+      "addresses": [
+        "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+        "0x2af75676692817d85121353f0d6e8e9ae6ad5576",
+        "0x67f4732266c7300cca593c814d46bee72e40659f",
+        "0xe3870569f9e1836960bf30b5a45fc743cef0ab0e",
+        "0x7f36182dee28c45de6072a34d29855bae76dbe2f"        
+      ]
+    },
+    {
+      "name": "Sports",
+      "addresses": [
+        "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "0x1de7abda2d73a01aa8dca505bdcb773841211daf"     
+      ]
+    },
+    {
+      "name": "Memes",
+      "addresses": [
+        "0xe4605d46fd0b3f8329d936a8b258d69276cba264",
+        "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "0x315cdf22f70401813601b7f0d6e9923ec0428cd5"  
+      ]
+    },
+    {
+      "name": "Virtual Worlds",
+      "addresses": [
+        "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38",
+        "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
+        "0x913ae503153d9a335398d0785ba60a2d63ddb4e2"    
+      ]
+    },
+    {
+      "name": "DigiPhysical Goods",
+      "addresses": [
+        "0x2b9bd413852401a7e09c77de1fab53915f8f9336",
+        "0x837779ed98209c38b9bf77804a4f0105b9eb2e02",
+        "0x495f947276749ce646f68ac8c248420045cb7b5e"    
+      ]
+    },
+    {
+      "name": "Access",
+      "addresses": [
+        "0x10daa9f4c0f985430fde4959adb2c791ef2ccf83",
+        "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb"   
+      ]
+    }
   ]
 }
