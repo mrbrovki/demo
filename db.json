@@ -1546,42 +1546,74 @@
   "nft-categories": [
     {
       "name": "Trading Cards",
-      "slug": "trading-cards",
+      "images": [
+        "/assets/categories/trading-card-1.jpg",
+        "/assets/categories/trading-card-2.jpg",
+        "/assets/categories/trading-card-3.jpg"
+      ],
       "contractAddress": "0x155cbbca1ab35eab09b66270046317803919e555"
     },
     {
       "name": "Artwork",
-      "slug": "artwork",
+      "images": [
+        "/assets/categories/artwork-1.jpg",
+        "/assets/categories/artwork-2.jpg",
+        "/assets/categories/artwork-3.jpg"
+      ],
       "contractAddress": "0x40711e7d328b5b97737c869a23e43b3c147ce638"
     },
     {
       "name": "Gaming",
-      "slug": "gaming",
+      "images": [
+        "/assets/categories/games-1.png",
+        "/assets/categories/games-2.png",
+        "/assets/categories/games-3.png"
+      ],
       "contractAddress": "0xe3870569f9e1836960bf30b5a45fc743cef0ab0e"
     },
     {
       "name": "Sports",
-      "slug": "sports",
+      "images": [
+        "/assets/categories/sports-1.jpg",
+        "/assets/categories/sports-2.jpg",
+        "/assets/categories/sports-3.jpg"
+      ],
       "contractAddress": "0x495f947276749ce646f68ac8c248420045cb7b5e"
     },
     {
       "name": "Memes",
-      "slug": "memes",
+      "images": [
+        "/assets/categories/memes-1.jpg",
+        "/assets/categories/memes-2.jpg",
+        "/assets/categories/memes-3.jpg"
+      ],
       "contractAddress": "0xe4605d46fd0b3f8329d936a8b258d69276cba264"
     },
     {
       "name": "Virtual Worlds",
-      "slug": "virtual-worlds",
+      "images": [
+        "/assets/categories/virtual-worlds-1.jpg",
+        "/assets/categories/virtual-worlds-2.jpg",
+        "/assets/categories/virtual-worlds-3.jpg"
+      ],
       "contractAddress": "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38"
     },
     {
       "name": "DigiPhysical Goods",
-      "slug": "digiphysical-goods",
+      "images": [
+        "/assets/categories/digi-1.jpg",
+        "/assets/categories/digi-2.gif",
+        "/assets/categories/digi-3.gif"
+      ],
       "contractAddress": "0x837779ed98209c38b9bf77804a4f0105b9eb2e02"
     },
     {
       "name": "Access",
-      "slug": "access",
+      "images": [
+        "/assets/categories/access-1.gif",
+        "/assets/categories/access-2.gif",
+        "/assets/categories/access-3.gif"
+      ],
       "contractAddress": "0x10daa9f4c0f985430fde4959adb2c791ef2ccf83"
     }
   ]
