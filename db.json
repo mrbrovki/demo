@@ -1548,7 +1548,7 @@
       "name": "Trading Cards",
       "images": [
         "/assets/categories/trading-card-1.jpg",
-        "/assets/categories/trading-card-2.jpg",
+        "/assets/categories/trading-card-2.gif",
         "/assets/categories/trading-card-3.jpg"
       ],
       "contractAddress": "0x155cbbca1ab35eab09b66270046317803919e555"
@@ -1557,7 +1557,7 @@
       "name": "Artwork",
       "images": [
         "/assets/categories/artwork-1.jpg",
-        "/assets/categories/artwork-2.jpg",
+        "/assets/categories/artwork-2.gif",
         "/assets/categories/artwork-3.jpg"
       ],
       "contractAddress": "0x40711e7d328b5b97737c869a23e43b3c147ce638"
@@ -1566,7 +1566,7 @@
       "name": "Gaming",
       "images": [
         "/assets/categories/games-1.png",
-        "/assets/categories/games-2.png",
+        "/assets/categories/games-2.gif",
         "/assets/categories/games-3.png"
       ],
       "contractAddress": "0xe3870569f9e1836960bf30b5a45fc743cef0ab0e"
@@ -1584,7 +1584,7 @@
       "name": "Memes",
       "images": [
         "/assets/categories/memes-1.jpg",
-        "/assets/categories/memes-2.jpg",
+        "/assets/categories/memes-2.gif",
         "/assets/categories/memes-3.jpg"
       ],
       "contractAddress": "0xe4605d46fd0b3f8329d936a8b258d69276cba264"
@@ -1593,7 +1593,7 @@
       "name": "Virtual Worlds",
       "images": [
         "/assets/categories/virtual-worlds-1.jpg",
-        "/assets/categories/virtual-worlds-2.jpg",
+        "/assets/categories/virtual-worlds-2.gif",
         "/assets/categories/virtual-worlds-3.jpg"
       ],
       "contractAddress": "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38"
