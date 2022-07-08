@@ -1601,9 +1601,9 @@
     {
       "name": "DigiPhysical Goods",
       "images": [
-        "/assets/categories/digi-1.jpg",
+        "/assets/categories/digi-1.png",
         "/assets/categories/digi-2.gif",
-        "/assets/categories/digi-3.gif"
+        "/assets/categories/digi-3.png"
       ],
       "contractAddress": "0x837779ed98209c38b9bf77804a4f0105b9eb2e02"
     },
