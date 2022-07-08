@@ -1610,9 +1610,9 @@
     {
       "name": "Access",
       "images": [
-        "/assets/categories/access-1.gif",
+        "/assets/categories/access-1.jpg",
         "/assets/categories/access-2.gif",
-        "/assets/categories/access-3.gif"
+        "/assets/categories/access-3.png"
       ],
       "contractAddress": "0x10daa9f4c0f985430fde4959adb2c791ef2ccf83"
     }
