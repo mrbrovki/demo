@@ -1551,6 +1551,7 @@
         "/assets/categories/trading-card-2.gif",
         "/assets/categories/trading-card-3.jpg"
       ],
+      "slug": "trading-cards",
       "contractAddress": "0x155cbbca1ab35eab09b66270046317803919e555"
     },
     {
@@ -1560,6 +1561,7 @@
         "/assets/categories/artwork-2.gif",
         "/assets/categories/artwork-3.jpg"
       ],
+      "slug": "artwork",
       "contractAddress": "0x40711e7d328b5b97737c869a23e43b3c147ce638"
     },
     {
@@ -1569,6 +1571,7 @@
         "/assets/categories/games-2.gif",
         "/assets/categories/games-3.png"
       ],
+      "slug": "gaming",
       "contractAddress": "0xe3870569f9e1836960bf30b5a45fc743cef0ab0e"
     },
     {
@@ -1578,6 +1581,7 @@
         "/assets/categories/sports-2.gif",
         "/assets/categories/sports-3.jpg"
       ],
+      "slug": "sports",
       "contractAddress": "0x495f947276749ce646f68ac8c248420045cb7b5e"
     },
     {
@@ -1587,6 +1591,7 @@
         "/assets/categories/memes-2.gif",
         "/assets/categories/memes-3.jpg"
       ],
+      "slug": "memes",
       "contractAddress": "0xe4605d46fd0b3f8329d936a8b258d69276cba264"
     },
     {
@@ -1596,6 +1601,7 @@
         "/assets/categories/virtual-worlds-2.gif",
         "/assets/categories/virtual-worlds-3.jpg"
       ],
+      "slug": "virtual-worlds",
       "contractAddress": "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38"
     },
     {
@@ -1605,6 +1611,7 @@
         "/assets/categories/digi-2.gif",
         "/assets/categories/digi-3.png"
       ],
+      "slug": "digi-goods",
       "contractAddress": "0x837779ed98209c38b9bf77804a4f0105b9eb2e02"
     },
     {
@@ -1614,6 +1621,7 @@
         "/assets/categories/access-2.gif",
         "/assets/categories/access-3.png"
       ],
+      "slug": "access",
       "contractAddress": "0x10daa9f4c0f985430fde4959adb2c791ef2ccf83"
     }
   ]
