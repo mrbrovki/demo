@@ -1624,5 +1624,10 @@
       "slug": "access",
       "contractAddress": "0x10daa9f4c0f985430fde4959adb2c791ef2ccf83"
     }
-  ]
+  ],
+  "hand-picked-collections": [
+   "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+   "0x1c410e4c1701f88a2a504f4506251624e8166419",
+   "0xe6d48bf4ee912235398b96e16db6f310c21e82cb"
+ ]
 }
