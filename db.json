@@ -1629,21 +1629,21 @@
    {
     "address": "0x4db1f25d3d98600140dfc18deb7515be5bd293af",
     "name": "Bored Ape",
-    "nft": 169,
+    "nftsTotal": 169,
     "hashtag": "#brdap",
     "social": "@boredape"
    },
    {
     "address": "0xcf8896d28b905cefd5ffbddd5dbfa0eeff8d938b",
     "name": "Dope Ape",
-    "nft": 666,
+    "nftsTotal": 666,
     "hashtag": "#dpape",
     "social": "@dopeape"
    },
    {
     "address": "0xcf8896d28b905cefd5ffbddd5dbfa0eeff8d938b",
     "name": "IHateNFTEE",
-    "nft": 273,
+    "nftsTotal": 273,
     "hashtag": "#ihnft",
     "social": "@ihatenftee"
    } 
