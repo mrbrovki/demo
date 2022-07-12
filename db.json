@@ -1626,8 +1626,26 @@
     }
   ],
   "hand-picked-collections": [
-   "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
-   "0x1c410e4c1701f88a2a504f4506251624e8166419",
-   "0xe6d48bf4ee912235398b96e16db6f310c21e82cb"
+   {
+    "address": "0x4db1f25d3d98600140dfc18deb7515be5bd293af",
+    "name": "Bored Ape",
+    "nft": 169,
+    "hashtag": "#brdap",
+    "social": "@boredape"
+   },
+   {
+    "address": "0xcf8896d28b905cefd5ffbddd5dbfa0eeff8d938b",
+    "name": "Dope Ape",
+    "nft": 666,
+    "hashtag": "#dpape",
+    "social": "@dopeape"
+   },
+   {
+    "address": "0xcf8896d28b905cefd5ffbddd5dbfa0eeff8d938b",
+    "name": "IHateNFTEE",
+    "nft": 273,
+    "hashtag": "#ihnft",
+    "social": "@ihatenftee"
+   } 
  ]
 }
